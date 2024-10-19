@@ -35,7 +35,7 @@ A year after that I tried once again, this time with python. I learned all the b
 
 Another year passed, and thanks to [Emmanuel](https://github.com/l1nk01), I got motivated and wanted to study Data Science at ITLA, but changed my mind when I saw someone doing data science and there was more Excel than anything else. That's when I saw a coding tutorial of someone making an application and I fell in love with what I saw. I started studying Front-end Development and learning HTML, CSS and JavaScript 4 months before entering ITLA, and have been coding ever since.
 
-On ITLA I learning all kinds of things, both thanks to some of the best teachers I've ever had and my own effort (reading documentation endlessly and putting things into practice). I got an interest in Web Design and 3D Design, Product Design and Digital Art, and then tasted what Back-end Developement really is, and I have to admit I loved it.
+On ITLA I learning all kinds of things, both thanks to some of the best teachers I've ever had and my own effort (reading documentation endlessly and putting things into practice). I catched an interest on Web Design and 3D Design, Product Design and Digital Art, and then tasted what Back-end Developement really is, and I have to admit I loved it.
 `
 Nowadays, I consider myself a `Digital/Tech Composer` whose passion is to make things on the Front-end and the Back-end work towards the same goal. You can have all kinds of art working together on the Front-end (3D, Audiovisuals, Interactive...), and all kinds of things working together on the backend (APIs, Databases, Architectures, Microservices...) but all those things must work towards the same goal to have an optimal, pleasing and effective product. That's my motto.
 
