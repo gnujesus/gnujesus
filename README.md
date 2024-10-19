@@ -22,9 +22,9 @@ I'm a full-stack developer who likes building both effective and beautiful solut
 <img align="left" alt="icon" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<br>
 
 ---
-#
 
 ### My Coding Journey
 The first encounter I ever had with code was on 2020, when the pandemic struck my country and we had to lock ourselves in our houses. For two years, I didn't come out of my house and the only thing my family went out was for essential stuff (food, water, y'know). 
