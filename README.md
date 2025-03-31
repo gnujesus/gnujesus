@@ -2,7 +2,7 @@
 
 **`Tech Composer (fancy way of saying I do coding and relate it to music)`**
 
-I'm a full-stack developer who likes building both effective and beautiful solutions. I like building systems that accomplish their goals and are visually pleasing for their users. All kinds of software have some kind of art in them; it is the work of a composer to make sure all the things on a project work towards the same goal to deliver an outstanding solution. 
+I'm a full-stack developer who likes building both effective and beautiful solutions. I enjoy building systems that accomplish their goals and are visually pleasing for their users. All kinds of software have some art in them; it is the work of a composer to make sure all the things on a project work towards the same goal to deliver an outstanding solution. 
 
 ### 🔨 Languages and Tools
 <img align="left" alt="icon" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
