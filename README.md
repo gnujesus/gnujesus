@@ -1,6 +1,6 @@
 # 🔱 GNU Jesus 🔱
 
-**`Tech Composer (fancy way of saying I do coding and relate it to music)`**
+**`Digital Craftsman`**
 
 I'm a full-stack developer who likes building both effective and beautiful solutions. I enjoy building systems that accomplish their goals and are visually pleasing for their users. All kinds of software have some art in them; it is the work of a composer to make sure all the things on a project work towards the same goal to deliver an outstanding solution. 
 
